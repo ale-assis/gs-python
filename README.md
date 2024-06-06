@@ -27,8 +27,15 @@ O sistema do SEASCASH foi desenvolvido em python e consistem em uma plataforma q
 - O usuário consegue analisar a situação da sua operação, acessando um painel com a quantidade de pontos atuais dele, quais resíduos foram doados e as informações sobre suas recompensas.
 
 ## Como utilizar o SEASCASH?  
-O SEASCASH é muito simples e intuitivo. Basta seguir corretamente as instruções que aparecerão na tela.  
-O sistema vai guiar o usuário desde o processo de criação de cadastro até o ganho de pontos.  
+O SEASCASH é muito simples e intuitivo. Ele vai orientar o usuário desde o processo de criação de cadastro até o ganho de pontos.  
+- 1º: Fazer cadastro
+- 2º: Realizar login no sistema
+- 3º: Acessar o menu e ir na opção de `Cadastro dos Resíduos`
+- 4º: Informar a quantidade, em kg, do resíduo que você irá descartar
+- 5º: Selecionar o resíduo que você irá descartar (O SEASCASH aceita descartes de Papel, Metal, Vidro e Plástico)
+- 6º: Escolher se quer realizar descarte de outros resíduos ou quer avançar para verificar a sua pontuação
+- 7º: Acessar o menu e ir na opção de `Verificar Saldo de Pontos`
+- 8º: Visualizar as informações sobre quais resíduos foram doados, quantos pontos totais você possui e como pode trocar estes pontos por recompensas e por desconto no seu IPTU.
 
 ## Considerações finais  
 Esperamos que com essa solução, as pessoas se sintam mais motivadas a fazerem o descarte adequado de materiais recicláveis, evitando que grande parte desses resíduos vão parar nos nossos oceanos, contaminando a água e destruindo ecossistemas completos e afetando a vida marinha.
