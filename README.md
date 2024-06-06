@@ -14,7 +14,7 @@
 ## Introdução  
 Para combater um dos diversos problemas que acometem os nossos oceanos, a poluição por meio de resíduo sólidos, nosso grupo projetou uma solução que garante engajar as pessoas a se unirem e participarem de uma causa nobre em prol do bem dos oceanos e da vida marinha.  
 
-## Introduzindo SEASCASH - O Sistema de Cashback dos Mares  
+## Apresentando SEASCASH - O Sistema de Cashback dos Mares  
 O SEASCASH é uma solução terrestre que vai ajudar na conservação dos oceanos, sob a fundamentação da premissa da Economia Azul. O SEASCASH (Sistema de Cashback de Resíduos Sólidos) é uma plataforma que incentiva os cidadãos a separarem e reciclarem seus resíduos corretamente. Os participantes que seguirem as práticas corretas de coleta seletiva recebem recompensas financeiras, como descontos no IPTU ou créditos que podem ser usados em estabelecimentos parceiros.  
 
 ## Funcionalidades do SEASCASH  
