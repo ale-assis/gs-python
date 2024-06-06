@@ -19,12 +19,11 @@ O SEASCASH é uma solução terrestre que vai ajudar na conservação dos oceano
 
 ## Funcionalidades do SEASCASH  
 O sistema do SEASCASH foi desenvolvido em python e consistem em uma plataforma que permite ao usuário se cadastrar e o possibilita a começar a fazer o descarte adequado dos resíduos sólidos. As funcionalidades do sistema são:  
-- Realizar cadastro
-- Realizar login
-- Acessar o menu de opções
-- Fazer descarte dos seguintes resíduos: Papel, Metal, Vidro e Plástico
+- Cadastro, login e autentificação
+- Menu de opções
+- Processo de descarte de resíduos sólidos
 - Cada resíduo tem uma pontuação que é calculada de acordo com a quantidade descartada desse resíduo (em kg)
-- O usuário consegue analisar a situação da sua operação, acessando um painel com a quantidade de pontos atuais dele, quais resíduos foram doados e as informações sobre suas recompensas.
+- O usuário consegue analisar a situação da sua operação, acessando um painel com a quantidade de pontos atuais
 
 ## Como utilizar o SEASCASH?  
 O SEASCASH é muito simples e intuitivo. Ele vai orientar o usuário desde o processo de criação de cadastro até o ganho de pontos.  
