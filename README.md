@@ -24,4 +24,6 @@ O sistema do SEASCASH foi desenvolvido em python e consistem em uma plataforma q
 - Cada resíduo tem uma pontuação que é calculada de acordo com a quantidade descartada desse resíduo (em kg)
 - O usuário consegue analisar a situação da sua operação, acessando um painel com a quantidade de pontos atuais dele, quais resíduos foram doados e as informações sobre suas recompensas.
 
-Elaborar um arquivo README contendo nome e RM do aluno, descrevendo detalhes do projeto, instruções de uso, requisitos, dependências e demais informações relevantes ao projeto. Será avaliada a clareza e organização do conteúdo apresentado.
+## Como utilizar o SEASCASH?  
+O SEASCASH é muito simples e intuitivo. Basta seguir corretamente as instruções que aparecerão na tela.  
+O sistema vai guiar o usuário desde o processo de criação de cadastro até o ganho de pontos.
